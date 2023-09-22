@@ -50,7 +50,8 @@ With our screen share app, communication barriers are broken, enabling users to 
 <br>
 
 ## Landing Paage
-![1](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/d701f75d-a0c2-4db9-91cf-c3e75ae97f44)
+![1](https://github.com/Kavitadsharma/Mirror-Mate/assets/115460412/d4c11863-1b2a-4fd9-b25a-adb866ba979e)
+
 <br>
 ## About Us
 ![2](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/312a0b6f-b4b7-4ca1-9b57-76966566e8b2)
