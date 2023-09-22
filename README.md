@@ -54,19 +54,23 @@ With our screen share app, communication barriers are broken, enabling users to 
 
 <br>
 ## About Us
-![2](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/312a0b6f-b4b7-4ca1-9b57-76966566e8b2)
+![2](https://github.com/Kavitadsharma/Mirror-Mate/assets/115460412/0c6e20e2-aa0c-451d-8ecd-ddb642cb6e6d)
+
 <br>
 
 ## SignIn
-![image](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/3d126a95-cd09-41c6-8df4-91a6ebe07ea6)
+![3](https://github.com/Kavitadsharma/Mirror-Mate/assets/115460412/c082cc56-c2be-49e6-904f-1ea214712558)
+
 <br>
 
 ## Login Page
-![3](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/233ac796-520f-49cf-95de-a5751eae449b)
+![4](https://github.com/Kavitadsharma/Mirror-Mate/assets/115460412/8e591fdc-47a0-48db-b131-c59008d79693)
+
 <br>
 
 ## Dashboard
-![4](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/99d3b92c-b35d-4566-a947-d3885916a623)
+![5](https://github.com/Kavitadsharma/Mirror-Mate/assets/115460412/73ce3fa4-5f84-4c81-ae88-e830a6f48181)
+
 <br>
 
 ## Enter meeting here
