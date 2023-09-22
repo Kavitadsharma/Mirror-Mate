@@ -74,19 +74,23 @@ With our screen share app, communication barriers are broken, enabling users to 
 <br>
 
 ## Enter meeting here
-![6](https://github.com/Kavitadsharma/Mirror-Mate/assets/115460412/79dbfbd4-ff4c-49da-a593-5ebda60963d3)
+![6](https://github.com/Kavitadsharma/Mirror-Mate/assets/115460412/5c572037-6fb5-4a70-ab2e-416c1dea73d7)
+
 
 <br>
 
 ## Screen Share
-![7](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/aeb7d02b-86fc-4810-82c0-1e147c41acbb)
+![7](https://github.com/Kavitadsharma/Mirror-Mate/assets/115460412/36a5568f-c819-49d6-be61-c597638ae9d0)
+
 <br>
 
 ## Video Call
-![7](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/c16abac0-5069-4753-b87d-f6b2d4e0e7c1)
+![8](https://github.com/Kavitadsharma/Mirror-Mate/assets/115460412/0aa8144c-f3cd-4f4a-b785-8cfe78976697)
+
 
 ## Message
-![8](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/f1bbd23d-283d-482f-a79e-3a6f12060ec4)
+![9](https://github.com/Kavitadsharma/Mirror-Mate/assets/115460412/0b313466-bdac-4038-a11d-afc4b5490fce)
+
 
 
 
