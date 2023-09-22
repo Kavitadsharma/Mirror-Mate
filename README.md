@@ -74,11 +74,12 @@ With our screen share app, communication barriers are broken, enabling users to 
 <br>
 
 ## Enter meeting here
-![5](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/1f8c8402-9054-47b2-8d7f-0f054d408897)
+![6](https://github.com/Kavitadsharma/Mirror-Mate/assets/115460412/79dbfbd4-ff4c-49da-a593-5ebda60963d3)
+
 <br>
 
 ## Screen Share
-![6](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/aeb7d02b-86fc-4810-82c0-1e147c41acbb)
+![7](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/aeb7d02b-86fc-4810-82c0-1e147c41acbb)
 <br>
 
 ## Video Call
