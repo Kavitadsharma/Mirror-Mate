@@ -50,10 +50,10 @@ With our screen share app, communication barriers are broken, enabling users to 
 <br>
 
 ## Landing Paage
-![image](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/d701f75d-a0c2-4db9-91cf-c3e75ae97f44)
+![1](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/d701f75d-a0c2-4db9-91cf-c3e75ae97f44)
 <br>
 ## About Us
-![image](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/312a0b6f-b4b7-4ca1-9b57-76966566e8b2)
+![2](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/312a0b6f-b4b7-4ca1-9b57-76966566e8b2)
 <br>
 
 ## SignIn
@@ -61,26 +61,26 @@ With our screen share app, communication barriers are broken, enabling users to 
 <br>
 
 ## Login Page
-![image](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/233ac796-520f-49cf-95de-a5751eae449b)
+![3](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/233ac796-520f-49cf-95de-a5751eae449b)
 <br>
 
 ## Dashboard
-![image](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/99d3b92c-b35d-4566-a947-d3885916a623)
+![4](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/99d3b92c-b35d-4566-a947-d3885916a623)
 <br>
 
 ## Enter meeting here
-![image](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/1f8c8402-9054-47b2-8d7f-0f054d408897)
+![5](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/1f8c8402-9054-47b2-8d7f-0f054d408897)
 <br>
 
 ## Screen Share
-![image](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/aeb7d02b-86fc-4810-82c0-1e147c41acbb)
+![6](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/aeb7d02b-86fc-4810-82c0-1e147c41acbb)
 <br>
 
 ## Video Call
-![WhatsApp Image 2023-05-10 at 19 33 48](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/c16abac0-5069-4753-b87d-f6b2d4e0e7c1)
+![7](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/c16abac0-5069-4753-b87d-f6b2d4e0e7c1)
 
 ## Message
-![image](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/f1bbd23d-283d-482f-a79e-3a6f12060ec4)
+![8](https://github.com/MSaifKhan01/peaceful-plastic-9412/assets/119391188/f1bbd23d-283d-482f-a79e-3a6f12060ec4)
 
 
 
